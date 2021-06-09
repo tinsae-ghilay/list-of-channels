@@ -148,6 +148,11 @@
 		<URL>https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8</URL>
 	</CHANNEL>
 	<CHANNEL>
+		<NAME>SWISS Sport TV</NAME>
+		<URL>https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8</URL>
+		<LOGO>https://i.imgur.com/HC0j4cC.jpg</LOGO>
+	</CHANNEL>
+	<CHANNEL>
 		<NAME>OKTO</NAME>
 		<URL>https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8</URL>
 	</CHANNEL>
