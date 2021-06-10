@@ -2,150 +2,192 @@
 	<CHANNEL>
 		<NAME>Africanews</NAME>
 		<URL>https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO>https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png</LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Aljazeera</NAME>
 		<URL>https://live-hls-aje-ak.getaj.net/AJE/index.m3u8</URL>
+		<LOGO>http://www.aljazeera.com/assets/images/aj-logo-lg-124.png</LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>ABC News</NAME>
 		<URL>https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>ABC Australia</NAME>
 		<URL>https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Arirang</NAME>
 		<URL>https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Euronews</NAME>
 		<URL>https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>France 24</NAME>
 		<URL>http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>NewsMax</NAME>
 		<URL>http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Fox News</NAME>
 		<URL>https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>DW English</NAME>
 		<URL>https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Yahoo TV</NAME>
 		<URL>https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Newsy</NAME>
 		<URL>https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Reuters</NAME>
 		<URL>https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>IGN Tv</NAME>
 		<URL>https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Sky News</NAME>
 		<URL>https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>NASA 1</NAME>
 		<URL>https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>NASA 2</NAME>
 		<URL>https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>BBC News</NAME>
 		<URL>http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>WION Tv</NAME>
 		<URL>https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/5b07ff91-68b4-4bce-983c-fef084f403b6/4.m3u8</URL>
+	        <LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>CNN International</NAME>
 		<URL>https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>TRT World</NAME>
 		<URL>https://tv-trtworld.live.trt.com.tr/master_1080.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>RTE One</NAME>
 		<URL>https://live.rte.ie/live/a/channel3/news.isml/.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>NHK World</NAME>
 		<URL>https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Cheddar news</NAME>
 		<URL>https://live.chdrstatic.com/cbn/index.m3u8</URL>
+		<LOGO></LOGO>
+	</CHANNEL>
+	<CHANNEL>
+		<NAME>ET Live</NAME>
+		<URL>https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8</URL>
+		<LOGO>https://en.wikipedia.org/wiki/Entertainment_Tonight#/media/File:Entertainment_Tonight_2014_logo.png</LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>CGTN news</NAME>
 		<URL>https://live.cgtn.com/1000/prog_index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>RT international</NAME>
 		<URL>http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>RT Documentary</NAME>
 		<URL>https://rt-doc.secure.footprint.net/1101.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>MSNBC</NAME>
 		<URL>http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Bloomberg Asia</NAME>
 		<URL>https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Bloomberg US</NAME>
 		<URL>https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>ORF II</NAME>
 		<URL>https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>ORF III</NAME>
 		<URL>https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Tirol Heute</NAME>
 		<URL>https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Das Erste</NAME>
 		<URL>https://mcdn.daserste.de/daserste/de/master_3628.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>ZDF HD</NAME>
 		<URL>https://to.hopslan.com/zdf/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>3SAT HD</NAME>
 		<URL>https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>OE24</NAME>
 		<URL>https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>SWISS Sport TV</NAME>
@@ -155,270 +197,336 @@
 	<CHANNEL>
 		<NAME>OKTO</NAME>
 		<URL>https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Addis Tv</NAME>
 		<URL>https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Eri Tv</NAME>
 		<URL>http://45.27.53.1:1935/live/myStream/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>NAT GEO</NAME>
 		<URL>https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Travel XP</NAME>
 		<URL>https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>PBS America</NAME>
 		<URL>https://pbs-samsunguk.amagi.tv/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>S Comedy</NAME>
 		<URL>https://uksono1-samsunguk.amagi.tv/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>DRY BAR</NAME>
 		<URL>https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>DAVE </NAME>
 		<URL>http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0be47bfc0236990.ts</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>4MORE</NAME>
 		<URL>http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/189064d1582f0cf.ts</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>CTV News</NAME>
 		<URL>https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>ONN TV</NAME>
 		<URL>https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>City TV</NAME>
 		<URL>https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>ITV</NAME>
 		<URL>http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Awsome</NAME>
 		<URL>https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Pet Collective</NAME>
 		<URL>https://the-pet-collective-international-it.samsung.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>TeleSÜR HD</NAME>
 		<URL>https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Weather CH</NAME>
 		<URL>https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&amp;rebase=on</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Fashion TV</NAME>
 		<URL>https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 	<!-- MBC group -->
 	<CHANNEL>
 		<NAME>MBC Action</NAME>
 		<URL>https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>MBC 2</NAME>
 		<URL>https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8</URL>
-	</CHANNEL>
-    <CHANNEL>
+	        <LOGO></LOGO>
+       </CHANNEL>
+       <CHANNEL>
 		<NAME>MBC 4</NAME>
 		<URL>https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8</URL>
+	        <LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>MBC 5</NAME>
 		<URL>https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8</URL>
+	        <LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>MBC MAX</NAME>
 		<URL>https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>MBC Drama</NAME>
 		<URL>https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Dubai One</NAME>
 		<URL>http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
         <!-- Movies start here-->
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>&amp;Flix</NAME>
 		<URL>https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+       <CHANNEL>
 		<NAME>&amp;Prive</NAME>
 		<URL>https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8</URL>
+	        <LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Brit Com</NAME>
 		<URL>https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Rakuten Action</NAME>
 		<URL>https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Rakuten comedy</NAME>
 		<URL>https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Rakuten Drama</NAME>
 		<URL>https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8</URL>
+	        <LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Adult Swim</NAME>
 		<URL>https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Hallmark Channel</NAME>
 		<URL>https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Hallmark Drama </NAME>
 		<URL>https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Hallmark M&amp;more</NAME>
 		<URL>https://dai2.xumo.com/xumocdn/p=redbox&amp;deviceid=&amp;is_lat=&amp;subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Hallmark M&amp;myst</NAME>
 		<URL>https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Movie Kingdom</NAME>
 		<URL>https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Movie Sphere</NAME>
 		<URL>https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Mashup Reality</NAME>
 		<URL>https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>People TV</NAME>
 		<URL>https://peopletv-localnow.akamaized.net/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Revry TV</NAME>
 		<URL>https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>TMZ</NAME>
 		<URL>https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
         <!-- Movies end here-->
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Distro</NAME>
 		<URL>https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>CMC</NAME>
 		<URL>https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Latido</NAME>
 		<URL>https://vidaprimo-plex.amagi.tv/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Afrobeats</NAME>
 		<URL>https://stream.ecable.tv/afrobeats/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>V2Beat</NAME>
 		<URL>https://abr.de1se01.v2beat.live/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>MTV Yo!</NAME>
 		<URL>http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>VEVO Latino</NAME>
 		<URL>https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>VEVO R&amp;B</NAME>
 		<URL>https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>!HD Music Ru</NAME>
 		<URL>http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>1 Music Hr</NAME>
 		<URL>http://hz1.teleport.cc/HLS/HD.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Kronehit</NAME>
 		<URL>http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
         <!-- Musc ends here -->
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Animal Planet</NAME>
 		<URL>https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Discovery Ch</NAME>
 		<URL>https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>A.TV</NAME>
 		<URL>https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>C-Span</NAME>
 		<URL>https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
         <!-- crap-->
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Premier HD 1</NAME>
 		<URL>https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Premier HD 2</NAME>
 		<URL>https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>Premier HD 3</NAME>
 		<URL>https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>FTV int.</NAME>
 		<URL>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>FTV Paris</NAME>
 		<URL>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
-    <CHANNEL>
+        <CHANNEL>
 		<NAME>FTV Midnight</NAME>
 		<URL>https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
         <CHANNEL>
 		<NAME>A3BIKINI</NAME>
 		<URL>https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
         <CHANNEL>
 		<NAME>Jasmine</NAME>
 		<URL>http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8</URL>
+		<LOGO></LOGO>
 	</CHANNEL>
 </CHANNELS>
