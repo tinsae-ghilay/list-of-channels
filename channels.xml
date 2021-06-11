@@ -160,6 +160,11 @@
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
+		<NAME>ORF I</NAME>
+		<URL>https://s6.hopslan.com/orf1a/index.m3u8?token=656dd5539b54e54a1ea24558b2151286798c6a1f-acc70fb7135e0225f0f89ddb67cf0448-1623447103-1623436303</URL>
+		<LOGO></LOGO>
+	</CHANNEL>
+	<CHANNEL>
 		<NAME>ORF II</NAME>
 		<URL>https://orf2.mdn.ors.at/out/u/orf2/drmqxa/manifest.mpd</URL>
 		<LOGO></LOGO>
