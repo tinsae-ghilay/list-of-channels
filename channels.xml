@@ -521,6 +521,11 @@
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Sky Premier league</NAME>
+		<URL>http://212.224.98.211:2200/EX/Sky_Sports_Premiere_League_HD-uk/index.m3u8?token=null</URL>
+		<LOGO></LOGO>
+	</CHANNEL>
+	<CHANNEL>
+		<NAME>beIN sports Xtra</NAME>
 		<URL>https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
