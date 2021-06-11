@@ -544,4 +544,8 @@
 		<URL>http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
+	<CHANNEL>
+		<NAME>TEST MPD</NAME>
+		<URL>http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd</URL>
+		<LOGO></LOGO>
 </CHANNELS>
