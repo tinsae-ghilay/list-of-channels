@@ -155,6 +155,11 @@
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
+		<NAME>ORF I</NAME>
+		<URL>https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd</URL>
+		<LOGO></LOGO>
+	</CHANNEL>
+	<CHANNEL>
 		<NAME>ORF II</NAME>
 		<URL>https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8</URL>
 		<LOGO></LOGO>
