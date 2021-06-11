@@ -548,4 +548,5 @@
 		<NAME>TEST MPD</NAME>
 		<URL>http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd</URL>
 		<LOGO></LOGO>
+	</CHANNEL>
 </CHANNELS>
