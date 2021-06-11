@@ -518,26 +518,6 @@
 		<URL>https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8</URL>
 		<LOGO></LOGO>
 	
-	
-		<NAME>Sky Sports</NAME>
-		<URL>http://212.224.98.211:2200/EX/Sky_Sports_Football_HD-uk/index.m3u8?token=null</URL>
-		<LOGO></LOGO>
-	
-        
-		<NAME>Sky Premier league</NAME>
-		<URL>https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8</URL>
-		<LOGO></LOGO>
-	
-	
-		<NAME>beIN sports Xtra</NAME>
-		<URL>http://212.224.98.211:2200/EX/Sky_Sports_Premiere_League_HD-uk/index.m3u8?token=null</URL>
-		<LOGO></LOGO>
-	
-	
-		<NAME>beIN sports 3</NAME>
-		<URL>https://idkaokso.soccer-24hd.com/hls/bein11.m3u8</URL>
-		<LOGO></LOGO>
-	
         
 		<NAME>FTV int.</NAME>
 		<URL>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8</URL>
