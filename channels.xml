@@ -211,8 +211,23 @@
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
-		<NAME>Eri Tv</NAME>
-		<URL>http://45.27.53.1:1935/live/myStream/playlist.m3u8</URL>
+		<NAME>Amhara TV</NAME>
+		<URL>https://wowhe1.vixtream.net/vcdnedge1/_definst_/smil:amma.smil/playlist.m3u8?wtCustomIp=178165128255&wtendtime=1623464782&wthash=u8QFcVwOe4nJNyKLcpWoVii-YRnTLWWd5uc41qQUYAU=</URL>
+		<LOGO></LOGO>
+	</CHANNEL>
+	<CHANNEL>
+		<NAME>FANA TV</NAME>
+		<URL>https://wowhe1.vixtream.net/vcdnedge1/_definst_/smil:fbctv.smil/playlist.m3u8?wtCustomIp=178165128255&wtendtime=1623465060&wthash=4B3-i5zoKQa9jd5xd_KazkStuNZ5RG6iLdEXVmmaPjU=</URL>
+		<LOGO></LOGO>
+	</CHANNEL>
+	<CHANNEL>
+		<NAME>Mix movies</NAME>
+		<URL>http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/143.m3u8</URL>
+		<LOGO></LOGO>
+	</CHANNEL>
+	<CHANNEL>
+		<NAME>El Fagjer</NAME>
+		<URL>http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
@@ -304,6 +319,11 @@
         <CHANNEL>
 		<NAME>MBC 2</NAME>
 		<URL>https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8</URL>
+	        <LOGO></LOGO>
+       </CHANNEL>
+	<CHANNEL>
+		<NAME>MBC 3</NAME>
+		<URL>https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8</URL>
 	        <LOGO></LOGO>
        </CHANNEL>
        <CHANNEL>
