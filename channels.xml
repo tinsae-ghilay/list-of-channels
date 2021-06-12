@@ -5,11 +5,7 @@
 		
 		<LOGO>https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png</LOGO>
 	</CHANNEL>
-	<CHANNEL>
-		<NAME>Fana</NAME>
-		<URL>https://wowhe1.vixtream.net/vcdnedge1/_definst_/fbcam/chunklist_w2048381264_tkd3RDdXN0b21JcD0xNzgxMTUxMzAxODkmd3RlbmR0aW1lPTE2MjM1NTQ3MDAmd3RoYXNoPTFPbXZQZGcwVWMzSEc5SXdQUmFPR0pFQ3lRQldRM1pIOWpFcVpWMzFBUlk9.m3u8</URL>
-		<LOGO></LOGO>
-	</CHANNEL>
+	
 	<CHANNEL>
 		<NAME>Aljazeera</NAME>
 		<URL>https://live-hls-aje-ak.getaj.net/AJE/index.m3u8</URL>
