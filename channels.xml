@@ -193,12 +193,12 @@
 		<LOGO></LOGO>
 	</CHANNEL>
 
-	<CHANNEL>
+	<!--CHANNEL>
 		<NAME>ORF II</NAME>
 		<URL>https://orf2.mdn.ors.at/out/u/orf2/drmqxa/manifest.mpd</URL>
 		<LICENCE></LICENCE>
 		<LOGO></LOGO>
-	</CHANNEL>
+	</CHANNEL-->
 	<CHANNEL>
 		<NAME>ORF III</NAME>
 		<URL>https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8</URL>
@@ -217,12 +217,12 @@
 		<LICENCE></LICENCE>
 		<LOGO></LOGO>
 	</CHANNEL>
-	<CHANNEL>
+	<!--CHANNEL>
 		<NAME>Das Erste</NAME>
 		<URL>https://s6.hopslan.com/ard/index.m3u8?token=ad9e0f20880890eb511ebe183eb1ddee49b3dbe5-72c5c551bdfd775a57c5fc23348c7df6-1623447745-1623436945</URL>
 		<LICENCE></LICENCE>
 		<LOGO></LOGO>
-	</CHANNEL>
+	</CHANNEL-->
 	<CHANNEL>
 		<NAME>ZDF HD</NAME>
 		<URL>https://to.hopslan.com/zdf/index.m3u8</URL>
