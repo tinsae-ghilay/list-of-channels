@@ -272,19 +272,16 @@
 	<CHANNEL>
 		<NAME>BBC planet</NAME>
 		<URL>http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62289</URL>
-		
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Travel XP</NAME>
 		<URL>https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8</URL>
-		
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>PBS America</NAME>
 		<URL>https://pbs-samsunguk.amagi.tv/playlist.m3u8</URL>
-		
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
