@@ -190,7 +190,7 @@
 		<NAME>ORF I</NAME>
 		<URL>https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd</URL>
 		<!--URL>https://s6.hopslan.com/orf1a/index.m3u8?token=656dd5539b54e54a1ea24558b2151286798c6a1f-acc70fb7135e0225f0f89ddb67cf0448-1623447103-1623436303</URL-->
-		<LICENCE>https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=LXTrO0LnhPbQXIKC8WqYQuPpP6csObp8gQ%2FO64TeoE9ItRItYhkqIsQ0q3jfAqcTArRW8uFvNhq88RTproi6cSmiN6G4M%2FJCKmFM3ra9DdK1ThJhoMK3%2FpySErv4fOMsI2bVoa%2BIBIUoGS%2BKowLdu9NsFGIJZdh97HkcVbU13mX%2BX5TstOtjPLOtKM3MjaWtyzKXONrSt9K56Wau%2F%2F2HGfYdNi4Tpr%2FR9O6vK5FKeTUTVjxV%2BXjSFEhVt8R4smYa</LICENCE>
+		<LICENCE>https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&amp;userToken=LXTrO0LnhPbQXIKC8WqYQuPpP6csObp8gQ%2FO64TeoE9ItRItYhkqIsQ0q3jfAqcTArRW8uFvNhq88RTproi6cSmiN6G4M%2FJCKmFM3ra9DdK1ThJhoMK3%2FpySErv4fOMsI2bVoa%2BIBIUoGS%2BKowLdu9NsFGIJZdh97HkcVbU13mX%2BX5TstOtjPLOtKM3MjaWtyzKXONrSt9K56Wau%2F%2F2HGfYdNi4Tpr%2FR9O6vK5FKeTUTVjxV%2BXjSFEhVt8R4smYa</LICENCE>
 		<LOGO></LOGO>
 	</CHANNEL>
 
