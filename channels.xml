@@ -192,9 +192,9 @@
 		<LOGO></LOGO>
 	</CHANNEL>
 
-	<!--CHANNEL>
-		<NAME>ORF II</NAME>
-		<URL>https://orf2.mdn.ors.at/out/u/orf2/drmqxa/manifest.mpd</URL>
+	<CHANNEL>
+		<NAME>BBC planet</NAME>
+		<URL>http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62289</URL>
 		
 		<LOGO></LOGO>
 	</CHANNEL-->
