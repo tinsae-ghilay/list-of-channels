@@ -217,12 +217,12 @@
 		<LICENCE></LICENCE>
 		<LOGO></LOGO>
 	</CHANNEL>
-	<!--CHANNEL>
+	<CHANNEL>
 		<NAME>Das Erste</NAME>
-		<URL>https://s6.hopslan.com/ard/index.m3u8?token=ad9e0f20880890eb511ebe183eb1ddee49b3dbe5-72c5c551bdfd775a57c5fc23348c7df6-1623447745-1623436945</URL>
+		<URL>https://mcdn.daserste.de/daserste/de/master.m3u8</URL>
 		<LICENCE></LICENCE>
 		<LOGO></LOGO>
-	</CHANNEL-->
+	</CHANNEL>
 	<CHANNEL>
 		<NAME>ZDF HD</NAME>
 		<URL>https://to.hopslan.com/zdf/index.m3u8</URL>
@@ -414,6 +414,11 @@
 		<NAME>Dubai One</NAME>
 		<URL>http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8</URL>
 		<LICENCE></LICENCE>
+		<LOGO></LOGO>
+	</CHANNEL>
+	<CHANNEL>
+		<NAME>GEM-Onyx</NAME>
+		<URL>https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
         <!-- Movies start here-->
