@@ -167,7 +167,7 @@
 	</CHANNEL>
 	<CHANNEL>
 	    <NAME>ORF I</NAME>
-		<URL>https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd</URL>
+		<URL>https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd|https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&amp;userToken=Y0A5yeyEsMIj7jtisk%2FQCXQcqT5sHh%2FryWP9ySDzE8nMqOcNr26i%2FEH7jiAEogCpYKcJwZ%2FSrfYRCNQ9ZelRM0UAIQEb%2FwAZanjd83zrTm%2F717bU2%2B7WXoPk6mEyzjGb3lU5o9FGdk9ErBakYj3yY%2FZ0XUdIAptR0THgAjjMRr1dixcGKEi5l3Ont89Wb42xjkZBuAO%2Bmj%2BJV5s%2BRVsEZsWzMIALIBpGQatj9hnCVuRc0S7f%2BgTfFRdz4VEUdAzW</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
