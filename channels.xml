@@ -321,7 +321,7 @@
 		<URL>https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>MBC 2</NAME>
 		<URL>https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8</URL>
 	    <LOGO></LOGO>
@@ -331,27 +331,27 @@
 		<URL>https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8</URL>
 	    <LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>MBC 4</NAME>
 		<URL>https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8</URL>
 	    <LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>MBC 5</NAME>
 		<URL>https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>MBC MAX</NAME>
 		<URL>https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>MBC Drama</NAME>
 		<URL>https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Dubai One</NAME>
 		<URL>http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8</URL>
 		<LOGO></LOGO>
@@ -372,22 +372,22 @@
 		<LOGO></LOGO>
 	</CHANNEL>
         <!-- Movies start here-->
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>&amp;Flix</NAME>
 		<URL>https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>&amp;Prive</NAME>
 		<URL>https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8</URL>
 	    <LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Brit Com</NAME>
 		<URL>https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Rakuten Action</NAME>
 		<URL>https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8</URL>
 		<LOGO></LOGO>
@@ -397,32 +397,32 @@
 		<URL>https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Rakuten Drama</NAME>
 		<URL>https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8</URL>
 	        <LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Adult Swim</NAME>
 		<URL>https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Hallmark Channel</NAME>
 		<URL>https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Hallmark Drama </NAME>
 		<URL>https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Hallmark M&amp;more</NAME>
 		<URL>https://dai2.xumo.com/xumocdn/p=redbox&amp;deviceid=&amp;is_lat=&amp;subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Hallmark M&amp;myst</NAME>
 		<URL>https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8</URL>
 		<LOGO></LOGO>
@@ -432,120 +432,120 @@
 		<URL>https://connection3-ent.sinclair.wurl.com/manifest/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Movie Kingdom</NAME>
 		<URL>https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Movie Sphere</NAME>
 		<URL>https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Mashup Reality</NAME>
 		<URL>https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>People TV</NAME>
 		<URL>https://peopletv-localnow.akamaized.net/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Revry TV</NAME>
 		<URL>https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>TMZ</NAME>
 		<URL>https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
      <!-- Movies end here-->
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Distro</NAME>
 		<URL>https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>CMC</NAME>
 		<URL>https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Latido</NAME>
 		<URL>https://vidaprimo-plex.amagi.tv/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Afrobeats</NAME>
 		<URL>https://stream.ecable.tv/afrobeats/index.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>V2Beat</NAME>
 		<URL>https://abr.de1se01.v2beat.live/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>MTV Yo!</NAME>
 		<URL>http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>VEVO Latino</NAME>
 		<URL>https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>VEVO R&amp;B</NAME>
 		<URL>https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>1HD Music Ru</NAME>
 		<URL>http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>1 Music Hr</NAME>
 		<URL>http://hz1.teleport.cc/HLS/HD.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Kronehit</NAME>
 		<URL>http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
         <!-- Musc ends here -->
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Animal Planet</NAME>
 		<URL>https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Discovery Ch</NAME>
 		<URL>https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>A.TV</NAME>
 		<URL>https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>C-Span</NAME>
 		<URL>https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
         <!-- crap-->
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Premier HD 1</NAME>
 		<URL>https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Premier HD 2</NAME>
 		<URL>https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8</URL>
 		<LOGO></LOGO>
@@ -575,32 +575,32 @@
 		<URL>http://xdo.akchatix.pro:8080/live/00:1A:79:16:FC:8A/ziajdjjfdifjd64646/67776.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-       <CHANNEL>
+    <CHANNEL>
 		<NAME>Premier HD 3</NAME>
 		<URL>https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>FTV int.</NAME>
 		<URL>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>FTV Paris</NAME>
 		<URL>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>FTV Midnight</NAME>
 		<URL>https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+     <CHANNEL>
 		<NAME>A3BIKINI</NAME>
 		<URL>https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <CHANNEL>
+    <CHANNEL>
 		<NAME>Jasmine</NAME>
 		<URL>http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8</URL>		
 	    <LOGO></LOGO>
