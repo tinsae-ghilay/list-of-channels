@@ -97,12 +97,11 @@
 	<CHANNEL>
 		<NAME>WION Tv</NAME>
 		<URL>https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/5b07ff91-68b4-4bce-983c-fef084f403b6/4.m3u8</URL>
-	        <LOGO></LOGO>
+	    <LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>CNN International</NAME>
 		<URL>https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8</URL>
-		
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
@@ -182,7 +181,8 @@
 	</CHANNEL>
 	<CHANNEL>
 		<NAME>Tirol Heute</NAME>
-		<URL>https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8</URL>
+		<URL>https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+		</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
@@ -315,7 +315,6 @@
 		<URL>https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-	<!-- MBC group -->
 	<CHANNEL>
 		<NAME>MBC Action</NAME>
 		<URL>https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8</URL>
@@ -371,7 +370,6 @@
 		<URL>http://crackle-xumo.amagi.tv/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <!-- Movies start here-->
     <CHANNEL>
 		<NAME>&amp;Flix</NAME>
 		<URL>https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8</URL>
@@ -399,8 +397,9 @@
 	</CHANNEL>
     <CHANNEL>
 		<NAME>Rakuten Drama</NAME>
-		<URL>https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8</URL>
-	        <LOGO></LOGO>
+		<URL>https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+		</URL>
+	    <LOGO></LOGO>
 	</CHANNEL>
     <CHANNEL>
 		<NAME>Adult Swim</NAME>
@@ -515,10 +514,10 @@
 	</CHANNEL>
     <CHANNEL>
 		<NAME>Kronehit</NAME>
-		<URL>http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8</URL>
+		<URL>http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+		</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <!-- Musc ends here -->
     <CHANNEL>
 		<NAME>Animal Planet</NAME>
 		<URL>https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8</URL>
@@ -539,7 +538,6 @@
 		<URL>https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
-        <!-- crap-->
     <CHANNEL>
 		<NAME>Premier HD 1</NAME>
 		<URL>https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8</URL>
@@ -602,7 +600,8 @@
 	</CHANNEL>
     <CHANNEL>
 		<NAME>Jasmine</NAME>
-		<URL>http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8</URL>		
+		<URL>http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+		</URL>		
 	    <LOGO></LOGO>
 	</CHANNEL>
 </CHANNELS>
