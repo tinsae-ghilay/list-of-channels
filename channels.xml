@@ -166,7 +166,7 @@
 	</CHANNEL>
 	<CHANNEL>
 	    <NAME>ORF I</NAME>
-		<URL>https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd|https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&amp;userToken=w6S4UImHx8FGjRmlgC8TWag27Q4Jsxtp0k5ioYkbPB6%2FK72QGtWWdNVyS7ovXTGBczgImg%2FJo98lcVaqRTUa34CeOebIFvW2elCaS2Hu5pM%2BWaM%2FtxgtahVzHLkqrqDZRTUvDVq3TjNPKlvDHm%2FQOOktc%2BtJ3R10JTZlTAZCN3I1j%2BnIu0%2FMCsjvNrc3SQisaj9h0jkI8x%2F9%2BSFy6BSg2lBwHgIlUxnYc7SrQObpzkp2325tubbYi4t4djQQf4Lk</URL>
+		<URL>https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd|https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&amp;userToken=MIcDsLj548QAoNOAMMtRknU46lRMoB0Pl23sR1c59tvcetqmclDZNx3w%2FOykVv9QnOgBnQiqpRbg6VWvlg833qyVw%2Fj70IHEX9i2Qh0fOoeNXL3Lq%2B%2FmZ8djVlgxGOEleEaxpNb3JnoBRoJNEmZuk5vxt0K3Ars3KiLVWYAJhwo5NbpZTuKAw461OtJx17Q1e6aF9EldvSYPfC5dWeuUPSrlQZYgKg6q2HRisDVKvWnbAh6jGPzsAJCc9b2c%2FKjx</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
@@ -361,7 +361,7 @@
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
-		<NAME>FOX Moviea</NAME>
+		<NAME>FOX Movies</NAME>
 		<URL>https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
