@@ -88,8 +88,6 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama Plus" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Plus Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
-//************************************************
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="General",Dubai One (1080p)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dust.us" tvg-name="Dust" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Dust (720p)
@@ -100,7 +98,6 @@ https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Dust.uk" tvg-name="Dust" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6LBIDFo.png" group-title="",Dust (720p)
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
-//*********************************
 #EXTINF:-1 tvg-id="8.at" tvg-name="8-Okto tv" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/6LBIDFo.png"group-title="",Dust (720p)
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AddisTV.et" tvg-name="Addis TV" tvg-country="ET" tvg-language="Amharic" tvg-logo="https://i.imgur.com/KAg6MOI.png" group-title="",Addis TV
