@@ -166,7 +166,7 @@
 	</CHANNEL>
 	<CHANNEL>
 	    <NAME>ORF I</NAME>
-		<URL>https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd|https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=t0YTOkMC6Cc%2FqbHdIyaB6JifMcM5ZTJYtvxgm7xSfpmsMnvLZryEXKrPCwZgFzbj6zb0%2BFPoxyTeroojImzkWaTIZGYcl7MRGcjo2n4EB9%2BmXBfxzRFNt99MrYcJL9Krwh1gfXPnvFHJqrhtB7pGPVi7gV5MFYD4UUdNPzbcNk0T%2FFcCR%2BB8pZavtTGG6pKQMNFiow4Ij%2FLU%2F1crNR%2BhLcqqtEEMguawxEsSHWy0Iv19JTY1JA16QbZuciPhfUyC</URL>
+		<URL>https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd|https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&amp;userToken=+HTI6u70k3VMKFLEackg6+4yOQTIaqg3wHdYjHBaCWZW4m01Qodp9rbAhLvsQ3mFvZfhZ66Si1Abissb9NLsbnMec4aMbA/DWa011kKYjUGAKyrZKcRrYNvijvp7uNEaMaLa761RodjLIVjOFInIc6CwKCHmxbIZYpjka2gME7XvpSOTIw3Y3rxDSn5JILD3gdijVXF5F/Am7mSSZ1AvvFEKlvHwXJs/770WkTd0kwX+GbhDQ0fa2000ik7/EYqo</URL>
 		<LOGO></LOGO>
 	</CHANNEL>
 	<CHANNEL>
